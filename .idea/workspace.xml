@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64105cc6-7545-4ccf-827d-752fb2f639c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/ramm/GitHub/Java-SOLID",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/Java-Tasks/Java-Simple-Tasks",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
